@@ -9,5 +9,6 @@
   "license": "MIT",
   "scripts": [
     "src/EventEmitter.js"
-  ]
+  ],
+  "main": "src/EventEmitter.js"
 }
